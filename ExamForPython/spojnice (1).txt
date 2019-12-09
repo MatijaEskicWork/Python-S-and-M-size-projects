@@ -1,0 +1,99 @@
+Spojiti rimske brojeve sa njihovom dekadnom vrednoscu
+L*50
+XIV*14
+MCIII*1103
+MDCXXIV*1624
+CMIX*909
+MMXVI*2016
+III*3
+LXIV*64
+Spojiti albume sa grupama
+Dozivjeti stotu*Bijelo dugme
+Vojna posta*Zana
+U ime naroda*Riblja corba
+Sanjati*Crvena jabuka
+Heroj ulice*Prljavo kazaliste
+Gradske price*Parni valjak
+Ratne igre*Kerber
+Satelit*Smak
+Spojiti albume sa grupama
+U tvojim ocima*Crvena jabuka
+Seobe*Kerber
+Crna dama*Smak
+Bitanga i princeza*Bijelo dugme
+Crno bijeli svet*Prljavo kazaliste
+Vruce igre*Parni valjak
+Prijatelji*Zana
+Istina*Riblja corba
+Povezite reci sa glasovnim promenama koje su u njima izvrsene
+narudzbina*jednacenje po zvucnosti
+orasi*sibilarizacija
+mracan*palatalizacija
+iskusna*nepostojano A
+sladoledzija*gubljenje suglasnika
+andjela*prelazak L u O
+mirisljav*jednacenje po mestu izgovora
+govedji*jotovanje
+Povezite reci sa glasovnim promenama koje su u njima izvrsene
+potpredsednik*jednacenje po zvucnosti
+boze*palatalizacija
+pevala*prelazak L u O
+odavno*gublenje suglasnika
+jastozi*sibilarizacija
+bucni*nepostojano A
+prosnja*jednjacenje po mestu izgovora
+placen*jotovanje
+Povezite reci sa glasovnim promenama koje su u njima izvrsene
+belezi*sibilarizacija
+mreskati se*jednacenje po zvucnosti
+paznja*jednacenje po mestu izgovora
+stenje*jotovanje
+seoce*prelazak L u O
+niksicki*gubljenje suglasnika
+kraljicin*palatalizacija
+jedna*nepostojano A
+Povezati spanske kosarkaske klubove i gradove iz kojih dolaze
+Estudijantes*Madrid
+Kutja Laboral*Vitoria
+Huventud*Barselona
+Kahasol*Sevilja
+Unikaha*Malaga
+Pamesa*Valensija
+Gran Kanaria*Las Palmas
+Saragosa*Saragosa
+Povezati italijanske kosarkaske klubove i gradove iz kojih dolaze
+Armani*Milano
+Montepaski*Sijena
+Palakanestro*Vareze
+Kinder*Bolonja
+Lotomatika*Rim
+Benet*Kantu
+Beneton*Trevizo
+Juvekaserta basket*Kaserta
+Povezati planinske vrhove sa njihovim nadmosrkim visinama
+Djeravica*2656m
+Babin zub*1758m
+Ostrvica*758m
+Crveni Cot*538m
+Mackov kamen*924m
+Ljuboten*2498m
+Mucanj*1534m
+Tornik*1496m
+Povezati planinske vrhove sa njihovim nadmosrkim visinama
+Njegos*1725m
+Midzor*2169m
+Pancicev vrh*2017m
+Triglav*2864m
+Veternik*2461m
+Jankov kamen*1833m
+Zboriste*1544m
+Cigota*1149m
+Povezati planinske vrhove sa njihovim nadmosrkim visinama
+Mon Blan*4807m
+Akonkagva*6959m
+Mont Everest*8848m
+Jalovec*2645m
+Mulasen*3478m
+Sveta Gera*1178m
+Ben Hevis*1343m
+Grintovec*2559m
